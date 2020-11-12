@@ -1,14 +1,15 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.31.1.
+-- This file has been generated from package.yaml by hpack version 0.34.2.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: d76d0e40c4803ec8becc2391ba2c349d610ad0705cbc9a054c33e38f1b05e837
+-- hash: 7cf07b5a69f61d4b99351da40c78e0807416acbd8a6c5107c5d527f64ab89d9f
 
 name:           detectInt
 version:        0.1.0.0
 author:         ShrykeWindgrace
+maintainer:     ShrykeWindgrace
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple
